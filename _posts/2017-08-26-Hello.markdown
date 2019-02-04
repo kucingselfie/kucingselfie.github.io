@@ -1,0 +1,6 @@
+---
+title: "Hello"
+tags: [hello]
+---
+
+Hello, welcome to my blog hehe.
