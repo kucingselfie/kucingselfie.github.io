@@ -1,6 +1,7 @@
 ---
 title: "Android - Constraint Layout"
 tags: [android]
+comments: true
 ---
 
 Di dalam dunia android ada beberapa layout yang sering digunakan untuk desain xml diantaranya RelativeLayout, LinearLayout, FrameLayout, GridLayout, dan yang paling baru adalah ConstraintLayout. Sebelum mengetahui constraint layout bagaimana sih Android menampilkan View ? 
@@ -59,6 +60,8 @@ Setelah pake barrier. Langsung aman wkwkw.
 Terakhir adalah Groups yaitu fitur untuk mengelompokkan view menjadi viewgroup tetapi tidak menggunakan nested layout seperti pada linearLayout.
 
 Untuk saat ini masih itu sih fitur dari constraint layout yang dikembangkan Google tetapi tentu sangat berguna untuk membuat responsif layout juga dapat mengurangi double taxation atau nested viewgroup di Android. Silahkan dicoba ya. Sekian thanks.
+
+{% include disqus.html %}
 
 
 
