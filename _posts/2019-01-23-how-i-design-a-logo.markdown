@@ -1,6 +1,7 @@
 ---
 title: "How I Design a Logo"
 tags: [design]
+comments: true
 ---
 
 Saya rasa semua graphic designer ataupun non-graphic designer pasti tahu Logo itu apa. Logo biasanya dibuat sebagai identitas perusahaan, produk, platform atau apapun itu yang menggambarkan secara
@@ -89,4 +90,6 @@ Dengan mengikuti step ini, bukan berarti kita bisa langsung jadi profesional Gra
 mudah dalam mendesign sebuah logo, saya yakin step ini bisa diikuti oleh siapapun di dunia ini wkwk. Ingat, tetap bekerja dengan hati, tetap kreatif dan be different.
 
 Sekian, Thank You.
+
+{% include disqus.html %}
 
