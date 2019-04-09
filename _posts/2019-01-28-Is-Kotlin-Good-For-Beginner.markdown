@@ -1,6 +1,7 @@
 ---
 title: "Is Kotlin Good for Beginner ?"
 tags: [kotlin, android, java]
+comments: true
 ---
 
 According to Wikipedia Kotlin adalah sebuah bahasa pemrograman dengan pengetikan statis yang berjalan pada 
@@ -33,3 +34,5 @@ semuanya juga tergantung minat dan kemauan, jika Anda suka atau punya keinginan 
 you can go with “Java” first and then meet Kotlin. It’s better, I promise. 
 
 Thank You. Hanya berbagi sedikit sesama Beginner :)
+
+{% include disqus.html %}
