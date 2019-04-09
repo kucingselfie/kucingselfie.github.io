@@ -1,8 +1,11 @@
 ---
 title: "Brielle"
 tags: [brielle]
+comments: true
 ---
 
 Goodbye brielle <br>
 Only whispers can tell <br>
 Of the sweet dreams that we knew so well. :musical_note:
+
+{% include disqus.html %}
