@@ -1,6 +1,9 @@
 ---
 title: "Hello"
 tags: [hello]
+comments: true
 ---
 
 Hello, welcome to my blog hehe.
+
+{% include disqus.html %}
