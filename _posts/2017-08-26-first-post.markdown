@@ -1,6 +1,7 @@
 ---
 title: "Illustrator: How To Make Your Own Color Swatch"
 tags: [illustrator]
+comments: true
 ---
 
 Color Swatch adalah Library warna pada illustrator yang biasa digunakan untuk mempermudah dalam mencari warna yang akan kita pakai dalam desain.
@@ -46,6 +47,8 @@ menu, navigate ke User defined.
 8. Done, Thanks.
 
 ![Swatch](https://image.ibb.co/evejSQ/9.jpg "Finish")
+
+{% include disqus.html %}
 
 
 
