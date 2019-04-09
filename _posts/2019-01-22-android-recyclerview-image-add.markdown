@@ -1,6 +1,7 @@
 ---
 title: "Android - Add Pokemon Button to RecyclerView"
 tags: [android]
+comments: true
 ---
 
 
@@ -296,6 +297,8 @@ pada RecyclerView.
 Link github project [disini](https://github.com/dzalif/add-pokemon-button)
 
 Thank you :)
+
+{% include disqus.html %}
 
 
 
