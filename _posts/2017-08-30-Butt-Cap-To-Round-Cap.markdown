@@ -1,6 +1,7 @@
 ---
 title: "Butt Cap To Round Cap For Better Line Art"
 tags: [illustrator]
+comments: true
 ---
 
 Kebanyakan illustrator, selalu memulai menggambar dengan Line Art. Selain terlihat bagus, Line art juga dapat memudahkan kita dalam mengetahui
@@ -39,6 +40,8 @@ Nah, langsung saja:
 6. Nah ini perbedaan Butt cap dan round cap. Just a little change, but make our line art looks better. :blush:
 
 ![Swatch](https://image.ibb.co/k7zKGk/9.jpg "butt cap and round cap")
+
+{% include disqus.html %}
 
 
 
