@@ -1,6 +1,7 @@
 ---
 title: "Android - Date Range Picker"
 tags: [android]
+comments: true
 ---
 
 Hi, pernah pake date picker di android ? date picker itu semacam input data tanggal yang biasanya dipakai untuk keperluan tertentu 
@@ -102,4 +103,6 @@ Noted : Library ini tidak bisa dijalankan di sdk 28 karena method Tablayoutnya s
 oleh si pembuatnya, jadi jika ingin di implementasikan harus pakai compileSdkVersion 27 kebawah dan minSdkVersion 16.
 
 Just Sharing. Thanks :)
+
+{% include disqus.html %}
 
