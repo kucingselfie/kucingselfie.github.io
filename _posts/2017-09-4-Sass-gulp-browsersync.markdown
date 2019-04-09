@@ -1,6 +1,7 @@
 ---
 title: "Sass + Gulp + browserSync"
 tags: [sass gulp browserSync]
+comments: true
 ---
 
 This is nothing, just workflow for sass :smile: . I am using Linux in this setup.
@@ -115,4 +116,6 @@ npm start
 ```
 
 It will compiling the css file, run the browser automatically and use auto reload immediately when the change made. 
+
+{% include disqus.html %}
 
