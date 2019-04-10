@@ -150,7 +150,7 @@ var nilai: Int = 5 downTo 1
 ```
 Maka outputnya adalah: 5 4 3 2 1
 
-<b>ATAUUU</b>
+<b>ATAU</b>
 
 Bisa juga dengan melakukan reversed pada for loopnya dengan cara seperti ini
 
@@ -162,7 +162,7 @@ for(i in nilai.reversed()) {
 
 Maka outputnya sama: 5 4 3 2 1
 
-<b>TUNGGU SEBENTARR</b>
+<b>TUNGGU SEBENTAR</b>
 
 <b>"Apakah kita bisa menerapkan range pada karakter?"</b>
 
