@@ -13,7 +13,7 @@ bagaimana syntax dasarnya, bagus tidak sih atau malah nyusahin. Jadi kita mulai 
 
 Var dan Val adalah keyword ketika kita ingin mendefinisikan suatu variabel di kotlin dimana Var adalah variabel yang valuenya
 bisa di re-assign sedangkan Val adalah variabel yang valuenya tidak bisa di re-assign atau diubah. Kalo di javascript val itu 
-seperti ``const`` di javascript dan keyword ``final`` di Java.
+seperti ``const`` dan keyword ``final`` di Java.
 Cara penulisan variabel di kotlin seperti ini :
 
 ```
@@ -69,7 +69,7 @@ var umurKucing: String = "Umur Kucing ${kucing.umur} tahun"
 Outputnya: Umur Kucing 5 tahun
 
 ### If Else
-Cara membuat kondisi di kotlin sama dengan di Java, hanya saja di kotlin kita mengembalikannya sebagai expression
+Cara membuat kondisi di kotlin sama dengan di Java, hanya saja di kotlin kita dapat mengembalikannya sebagai expression
 
 Contoh:
 
