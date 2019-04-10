@@ -68,6 +68,10 @@ var umurKucing: String = "Umur Kucing ${kucing.umur} tahun"
 
 Outputnya: Umur Kucing 5 tahun
 
+<b>"Do We need getter and setter in Kotlin ?"</b>
+
+<b>"No, We don't need"</b>
+
 ### If Else
 Cara membuat kondisi di kotlin sama dengan di Java, hanya saja di kotlin kita dapat mengembalikannya sebagai expression
 
@@ -160,7 +164,7 @@ Maka outputnya sama: 5 4 3 2 1
 
 <b>TUNGGU SEBENTARR</b>
 
-<b>Apakah kita bisa menerapkan range pada karakter?</b>
+<b>"Apakah kita bisa menerapkan range pada karakter?"</b>
 
 Jawabannya adalah bisa dengan cara seperti ini
 
