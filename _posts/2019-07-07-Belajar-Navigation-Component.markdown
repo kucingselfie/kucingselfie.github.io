@@ -224,3 +224,5 @@ and That’s it. Sampai disini kita sudah berhasil membuat navigation dengan Nav
 ada banyak fitur dari Navigation Component seperti menambahkan conditional navigation, menyimpan data, menambahkan animation dll. Jadi silahkan di explore 
 ya , linknya bisa dilihat [disini](https://developer.android.com/guide/navigation).
 
+{% include disqus.html %}
+
