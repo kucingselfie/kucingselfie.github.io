@@ -11,7 +11,7 @@ atau komponen yang dibuat oleh Google untuk mempermudah developing android app d
 Android Jetpack sendiri ada beberapa tetapi kali ini yang akan kita pelajari adalah Navigation Component. 
 
 Sebelumnya di dalam navigation sendiri ada 3 prinsip :
-1.	There’s always starting place yaitu Screen pertama yang dilihat user ketika pertama kali membuka sebuah app.
+1.	There’s always starting place yaitu Screen pertama yang dilihat user ketika pertama kali membuka sebuah app dan menjadi screen terakhir ketika user akan menutup sebuah app.
 2.	You can always Go back yaitu Screen yang kita buat harus memiliki fungsi back dari current destination ke start destinationnya.
 3.	Up goes back yaitu Up button harus memiliki fungsi back yang sama dengan system back button. Up button adalah tombol yang biasa kita lihat di pojok kiri atas sebuah app sedangkan system back button adalah tombol yang terdapat di pojok kanan bawah sebuah app atau handphone.
 
