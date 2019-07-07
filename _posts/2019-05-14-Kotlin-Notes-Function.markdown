@@ -126,3 +126,5 @@ var totalAmount = calculate(interest = 0,04, amnt = 50)
 Jadi, walaupun parameternya kita tukar, nilainya tidak akan berubah karena setiap parameternya telah kita berikan named parameter.
 
 Oke, itu dulu aja, Sekian, Thanks.
+
+{% include disqus.html %}
