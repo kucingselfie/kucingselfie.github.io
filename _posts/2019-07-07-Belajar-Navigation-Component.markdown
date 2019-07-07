@@ -144,6 +144,7 @@ Kembali ke layout activity_main.xml tambahkan Host Fragment dan koneksikan fragm
                 android:id="@+id/navHostFragment"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:name="androidx.navigation.fragment.NavHostFragment"
                 app:defaultNavHost="true"
                 app:navGraph="@navigation/navigation"
         />
