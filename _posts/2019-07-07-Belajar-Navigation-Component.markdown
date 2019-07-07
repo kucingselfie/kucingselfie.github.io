@@ -128,7 +128,7 @@ val binding: FragmentHelloBinding = DataBindingUtil.inflate(inflater, R.layout.f
 return binding.root
 ```
 
-Oke sekarang kita mau buat Navigation Graph. Navigation Graph sendiri adalah fitur terbaru dari Android Studio yang memungkinkan kita untuk membuat fungsi navigation tetapi dalamtampilan UI gitu. 
+Oke sekarang kita mau buat Navigation Graph. Navigation Graph sendiri adalah fitur terbaru dari Android Studio yang memungkinkan kita untuk membuat fungsi navigation tetapi dalam tampilan UI gitu. 
 Untuk membuatnya kita ke res folder klik kanan – New – Android Resource File – Ubah Resource type dan name menjadi navigation kemudian klik OK.
 
 Kembali ke layout activity_main.xml tambahkan Host Fragment dan koneksikan fragment ke Navigation graph sehingga kodenya akan seperti ini :
