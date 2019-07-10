@@ -221,7 +221,7 @@ class MainActivity : AppCompatActivity() {
 ```
 
 and That’s it. Sampai disini kita sudah berhasil membuat navigation dengan Navigation Component di Android sekaligus handling backstacknya. Masih 
-ada banyak fitur dari Navigation Component seperti menambahkan conditional navigation, menyimpan data, menambahkan animation dll. Jadi silahkan di explore 
+ada banyak fitur dari Navigation Component seperti menambahkan conditional navigation, mengirim data, menambahkan animation dll. Jadi silahkan di explore 
 ya , linknya bisa dilihat [disini](https://developer.android.com/guide/navigation).
 
 {% include disqus.html %}
