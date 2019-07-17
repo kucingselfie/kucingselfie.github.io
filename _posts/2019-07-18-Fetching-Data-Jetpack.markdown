@@ -5,7 +5,7 @@ comments: true
 ---
 
 Apa itu fetch data ? Fetch merupakan fungsi dasar untuk meminta sumber daya melalui jaringan, 
-Secara dasar berhubungan dengan request & response(permintaan/tanggapan). Saya ambil di postnya bapak Rin [disini](https://medium.com/@ri7nz/3-cara-fetch-data-di-reactjs-aaa064ccf5e9). 
+Secara dasar berhubungan dengan request & response(permintaan/tanggapan). Saya ambil di postnya bapak Rin [disini](https://medium.com/@ri7nz/3-cara-fetch-data-di-reactjs-aaa064ccf5e9) wkwk. 
 Kali ini kita akan belajar melakukan fetch data di Android dengan component Android Jetpack. Yang belum tahu Android Jetpack silahkan baca dulu postingan saya sebelum ini. Pertama yang perlu kita persiapkan adalah sebuah project, disini saya akan membuat sebuah project yang menampilkan list film populer. 
 Saya mengambil data dari sebuah website film yang bernama [TMDB](https://www.themoviedb.org/). Anunya kira-kira seperti ini :
 
