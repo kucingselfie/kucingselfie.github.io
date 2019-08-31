@@ -50,7 +50,7 @@ Ignoring navigate() call: FragmentManager has already saved its state
 
 Dia ngabaiin kode navigate saya karena katanya statenya udah kesave. 
 Alhasil timerTask nya berhasil dijalankan tetapi tidak berpindah kemana-mana atau 
-dalam hal ini saya tidak berpindah ke halaman logout. Ini terjadi mungkin karena navController tidak bisa dijalankan di foreground karena Activity dalam kondisi tidak visible. 
+dalam hal ini saya tidak berpindah ke halaman logout. Ini terjadi mungkin karena navController tidak bisa dijalankan pada background task karena Activity dalam kondisi tidak visible. 
 Maka saya coba dengan cara seperti ini :
 
 -	Detect if device is idle and add state
@@ -88,7 +88,7 @@ override fun onResume() {
 }
 ```
 
-and It’s worked! Selanjutnya tinggal tambahin satu function buat ngeclear sessionnya. 
+and It’s worked! <strong>onResume()</strong> akan dipanggil ketika Activity berada di foreground, hal ini pun berhasil melakukan trigger pada navController. Selanjutnya tinggal tambahin satu function buat ngeclear sessionnya. 
 Semoga bermanfaat ya bagi yang mengalami case yang sama. Thank you.
 
 {% include disqus.html %}
