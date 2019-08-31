@@ -8,7 +8,7 @@ Halo, pada kesempatan kali ini saya akan coba share sedikit tentang case yang sa
 Jadi, kemarin saya ada task yaitu melakukan scheduling Logout secara otomatis dalam waktu tertentu ketika device dalam kondisi Idle atau 
 bahasa familiarnya mungkin ketika device sedang mengalami sleep. Pada android sendiri ada beberapa kondisi device tersebut dikatakan Idle :
 
-1.	Ketika app sedang berjalan kemudian kita menekan tombol Home.
+1.	Ketika app sedang berjalan kemudian tombol Home ditekan.
 2.	Ketika tombol recent app ditekan.
 3.	Ketika device dalam keadaan ke-lock atau tombol lockscreen ditekan.
 
