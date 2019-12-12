@@ -1,5 +1,5 @@
 ---
-title: "Android : Fetching Data The Jetpack Way"
+title: "Android : Fetching Data with Retrofit also with Jetpack"
 tags: [kotlin, android, jetpack]
 comments: true
 ---
