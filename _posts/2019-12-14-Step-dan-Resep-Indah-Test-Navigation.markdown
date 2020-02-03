@@ -4,7 +4,7 @@ tags: [kotlin, android, testing]
 comments: true
 ---
 
-Halo bapak ibu, pada kesempatan kali ini saya mau share sedikit tentang bagaimana melakukan Instrumented Test pada Navigation Component sebagaimana yang telah kita ketahui bersama bapak ibu, 
+Halo, pada kesempatan kali ini saya mau share sedikit tentang bagaimana melakukan Instrumented Test pada Navigation Component sebagaimana yang telah kita ketahui bersama, 
 bahwa aplikasi yang bagus adalah aplikasi yang bisa di tes. 
 Untuk yang belum tahu di Android sendiri ada 2 jenis Automated Unit Test :
 
