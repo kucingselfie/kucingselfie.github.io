@@ -1,5 +1,5 @@
 ---
-title: "Step dan Resep indah to Test your Navigation Component"
+title: "How to Test your Navigation Component"
 tags: [kotlin, android, testing]
 comments: true
 ---
