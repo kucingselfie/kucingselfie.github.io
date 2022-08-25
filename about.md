@@ -4,4 +4,4 @@ title: About me
 permalink: /about/
 ---
 
-I create Android apps using Kotlin and Multiplatform app with Flutter. Please don't hesitate to contact me if you have any questions :)
+I will share knowledge and bugs to you guys :smile_cat:
