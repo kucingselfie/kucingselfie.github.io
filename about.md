@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
+title: About Kucingselfie
 permalink: /about/
 ---
 
-I will share knowledge and bugs to you guys :smile_cat:
+The place where I share all my problems.
