@@ -491,7 +491,7 @@ class CustomTextInputType extends TextInputType {
 }
 ```
 
-Cara pakenya ygy, jangan lupa tambahkan fungsi untuk mengambil output dari tanggalnya
+Cara pakenya ygy, jangan lupa tambahkan fungsi untuk menerima output dari tanggalnya, atribut `readOnly` kita buat `true` agar user tidak melakukan input freetext melainkan membuka DatePicker
 
 ```
 TextEditingController dateController = TextEditingController();
