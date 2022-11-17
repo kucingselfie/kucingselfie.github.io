@@ -4,7 +4,7 @@ tags: [flutter]
 comments: true
 ---
 
-Apa itu form ? Form adalah widget di Flutter yang biasanya dipakai untuk inputan data seperti nama, ktp, alamat, gender dll. Seperti ini contohnya
+Apa itu form ? Form adalah widget di Flutter yang biasanya dipakai untuk menerima input data dari users seperti nama, ktp, alamat, gender dll. Seperti ini contohnya
 
 <img width="407" alt="Screen Shot 2022-11-17 at 00 55 25" src="https://user-images.githubusercontent.com/47325506/202258615-5875c12f-235c-478a-8ae7-9c001ab5e0db.png">
 
