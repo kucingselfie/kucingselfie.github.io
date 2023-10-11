@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "co.id.ajsmsig.cs.simpel",
+                 "sha256_cert_fingerprints": ["CB:2F:38:E7:4A:32:B9:D9:BA:A7:50:68:AA:BE:E8:46:62:5A:83:19:35:C9:AF:F4:BC:31:17:92:E9:BA:A7:1D"] }
+}]
